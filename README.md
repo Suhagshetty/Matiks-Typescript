@@ -1,4 +1,4 @@
-# 🌐 Scalable Leaderboard Web Application
+#  Scalable Leaderboard Web Application
 
 A high-performance, real-time leaderboard web application built with **Go (Backend)** and **React (Frontend)** that handles 10,000+ concurrent users with tie-aware ranking and beautiful animations.
 
